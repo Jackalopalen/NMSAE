@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ExternalSourcesList SchemaVersion="1">
-    <Source Path="Input\in.wav" Conversion="Vorbis" Destination="out.wem"/>
-</ExternalSourcesList>
