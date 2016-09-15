@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "No Man's Sky Audio Editor", "No Man's Sky Audio Editor\No Man's Sky Audio Editor.pyproj", "{9E655B68-32AD-45EA-B696-F7E69E966EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E655B68-32AD-45EA-B696-F7E69E966EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E655B68-32AD-45EA-B696-F7E69E966EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E655B68-32AD-45EA-B696-F7E69E966EF2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9E655B68-32AD-45EA-B696-F7E69E966EF2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9E655B68-32AD-45EA-B696-F7E69E966EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E655B68-32AD-45EA-B696-F7E69E966EF2}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
